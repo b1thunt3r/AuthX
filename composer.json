@@ -1,0 +1,20 @@
+{
+  "name": "bit0/authX",
+  "description": "Testing out Hybrid Auth for login to Google Apps Domain",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ishan Jain <b1thunt3r>",
+      "email": "ishan@jain.se"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bit0\\": ["src/"]
+    }
+  },
+  "require": {
+    "hybridauth/hybridauth": "dev-master"
+  }
+}
