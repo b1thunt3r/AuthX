@@ -1,4 +1,4 @@
-# Auth
+# AuthExperiment
 Testing out Hybrid Auth for login to Google Apps Domain
 
 ## Info
